@@ -6,7 +6,7 @@
   <link href="https://lxchel.github.io/atom.xml" rel="self"/>
   
   <link href="https://lxchel.github.io/"/>
-  <updated>2022-06-04T13:18:53.436Z</updated>
+  <updated>2022-06-14T03:37:36.365Z</updated>
   <id>https://lxchel.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://lxchel.github.io/2022/06/04/hello-world/"/>
-    <id>https://lxchel.github.io/2022/06/04/hello-world/</id>
-    <published>2022-06-04T13:18:53.436Z</published>
-    <updated>2022-06-04T13:18:53.436Z</updated>
+    <title>Hello World 世界，你好！</title>
+    <link href="https://lxchel.github.io/2019/10/03/hello-world/"/>
+    <id>https://lxchel.github.io/2019/10/03/hello-world/</id>
+    <published>2019-10-03T06:25:00.000Z</published>
+    <updated>2022-06-14T03:37:36.365Z</updated>
     
     
       
@@ -34,6 +34,14 @@
     
     
     
+    <category term="Diary" scheme="https://lxchel.github.io/categories/Diary/"/>
+    
+    <category term="Life" scheme="https://lxchel.github.io/categories/Diary/Life/"/>
+    
+    
+    <category term="hello,article" scheme="https://lxchel.github.io/tags/hello-article/"/>
+    
+    <category term="Games" scheme="https://lxchel.github.io/tags/Games/"/>
     
   </entry>
   
