@@ -5,41 +5,12 @@
     
     <entry>
       <title>Hello World</title>
-      <link href="/2022/11/09/hello-world%20-%20%E5%89%AF%E6%9C%AC/"/>
-      <url>/2022/11/09/hello-world%20-%20%E5%89%AF%E6%9C%AC/</url>
+      <link href="/2022/11/09/hello-world/"/>
+      <url>/2022/11/09/hello-world/</url>
       
         <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre><code class="bash">$ hexo new &quot;My New Post&quot;</code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre><code class="bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre><code class="bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre><code class="bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
       
       
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>关于lxchel</title>
-      <link href="/2022/11/09/indexs/"/>
-      <url>/2022/11/09/indexs/</url>
-      
-        <content type="html"><![CDATA[<h2 id="关于lxchel"><a href="#关于lxchel" class="headerlink" title="关于lxchel"></a>关于lxchel</h2><p><strong>lxchel</strong> 是阁主的个人博客站，记录学习知识。</p><p>到目前为止已经写了<code class="article_number"></code>篇文章， 共<code class="site_word_count"></code>字。</p><p>本站访问人数：<code class="site_uv"></code>人次 ， 访问量：<code class="site_pv"></code>次</p><h2 id="博客平台"><a href="#博客平台" class="headerlink" title="博客平台"></a>博客平台</h2><p>博客目录下Git Bash Here，只可右键粘贴   <strong>hexo clean &amp;&amp; hexo g &amp;&amp; hexo s</strong>  ，本地没问题，再<strong>hexo d</strong>到网上</p><p>这个博客通过 <a href="https://hexo.io/">Hexo</a> 生成，部署在 <a href="https://pages.github.com/">GitHub Pages</a>主题 <a href="https://github.com/yelog/hexo-theme-3-hexo">3-hexo</a> 已经在github上开源</p><p><code>3-hexo</code> 主题使用交流可以加 Q群: <a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=e8cf083cc097141eaf323396f1766809b8e90ff00c67bb441898f672892f6904"><img data-ignore border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="3-hexo使用交流" title="3-hexo使用交流"></a></p><p>主要功能：</p><p>​             搜索支持文章标题、标签(#标签)、作者(@作者)</p><p>​             pad&#x2F;手机等移动端适配</p><p>​       页面全局快捷键 <a href="http://yelog.org/2017/03/24/3-hexo-shortcuts/">3-hexo快捷键说明</a></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> category </category>
-          
-          <category> subcategory </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> tag1 </tag>
-            
-            <tag> tag2 </tag>
-            
-        </tags>
       
     </entry>
     
@@ -69,19 +40,6 @@
             <tag> tag2 </tag>
             
         </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/2022/11/09/hello-world/"/>
-      <url>/2022/11/09/hello-world/</url>
-      
-        <content type="html"><![CDATA[<h2 id="关于lxchel"><a href="#关于lxchel" class="headerlink" title="关于lxchel"></a>关于lxchel</h2><p><strong>lxchel</strong> 是阁主的个人博客站，记录学习知识。</p><p>到目前为止已经写了<code class="article_number"></code>篇文章， 共<code class="site_word_count"></code>字。</p><p>本站访问人数：<code class="site_uv"></code>人次 ， 访问量：<code class="site_pv"></code>次</p><h2 id="博客平台"><a href="#博客平台" class="headerlink" title="博客平台"></a>博客平台</h2><p>博客目录下Git Bash Here，只可右键粘贴   <strong>hexo clean &amp;&amp; hexo g &amp;&amp; hexo s</strong>  ，本地没问题，再<strong>hexo d</strong>到网上</p><p>这个博客通过 <a href="https://hexo.io/">Hexo</a> 生成，部署在 <a href="https://pages.github.com/">GitHub Pages</a>主题 <a href="https://github.com/yelog/hexo-theme-3-hexo">3-hexo</a> 已经在github上开源</p><p><code>3-hexo</code> 主题使用交流可以加 Q群: <a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=e8cf083cc097141eaf323396f1766809b8e90ff00c67bb441898f672892f6904"><img data-ignore border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="3-hexo使用交流" title="3-hexo使用交流"></a></p><p>主要功能：</p><p>​             搜索支持文章标题、标签(#标签)、作者(@作者)</p><p>​             pad&#x2F;手机等移动端适配</p><p>​       页面全局快捷键 <a href="http://yelog.org/2017/03/24/3-hexo-shortcuts/">3-hexo快捷键说明</a></p>]]></content>
-      
-      
       
     </entry>
     
